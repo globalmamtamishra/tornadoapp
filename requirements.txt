@@ -1,0 +1,9 @@
+tornado
+pymysql
+python-dotenv
+bcrypt
+aiomysql
+black
+flake8
+pytest
+pytest-cov
